@@ -1,5 +1,5 @@
-# Api: https://www.proxy-list.download/api/v1/
-# Website: https://www.proxy-list.download
+# Api: https://some-random-api.ml/
+# Website: https://some-random-api.ml/
 # Developed by @Pandaxyz
 
 import requests,time,random,os,json,webbrowser
